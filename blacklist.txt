@@ -1,0 +1,23 @@
+#My Pihole blocklist
+#
+#
+#
+#
+scribe.logs.roku.com
+giga.logs.roku.com
+signal.pod1.avatar.ext.hp.com
+media-amc-0.hostedcloudvideo.com
+ftps.hostedcloudvideo.com
+p2p.amcrestview.com
+command-10.amcrestcloud.com
+amcrestview.com
+dh.amcrestsecurity.com
+google-public-dns-a.google.com
+google-public-dns-b.google.com
+config.amcrestcloud.com
+myipaddress.com
+fbsbx.com
+mgid.com
+steepto.com
+criteo.com
+mfadsrvr.com
