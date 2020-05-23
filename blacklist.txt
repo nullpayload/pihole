@@ -94,3 +94,14 @@ vdterms.samsungcloudsolution.com
 www.samsungotn.net
 www.samsungrm.net
 xpu.samsungelectronics.com
+mopub.com
+localytics.com
+crashlytics.com
+applovin.com
+symcb.com
+moatads.com
+flurry.com
+appsflyer.com
+symcd.com
+adsafeprotected.com
+inmobi.com
