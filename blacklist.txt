@@ -132,3 +132,5 @@ fallguys.com
 Krunker.io
 sadownload.mcafee.com
 mcafee.com
+doh.dns.apple.com
+
