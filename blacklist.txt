@@ -146,3 +146,5 @@ screenshots.goguardian.com
 snat.goguardian.com
 x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
+sockjs-goguardian.pusher.com
+ws-goguardian.pusher.com
