@@ -152,4 +152,5 @@ techpilotlabs.com
 goguardian.com
 cl.techpilotlabs.com
 future.net.uk
-urls.bark.us
+bark.us
+appcues.com
