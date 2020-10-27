@@ -1,8 +1,7 @@
 #My Pihole blocklist
 #
 #
-#
-#
+braze.com
 scribe.logs.roku.com
 giga.logs.roku.com
 signal.pod1.avatar.ext.hp.com
