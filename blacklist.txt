@@ -69,7 +69,6 @@ pipeaota.com
 premium-videos.telly.com
 prov.samsungcloudsolution.com
 rd.samsungadhub.com
-rwww.samsungotn.net
 samsungacr.com
 samsungadhub.com
 samsungcloudsolution.com
@@ -90,8 +89,8 @@ upu.samsungelectronics.com
 us-api.samsungyosemite.com
 vd.emp.prd.s3.amazonaws.com
 vdterms.samsungcloudsolution.com
-www.samsungotn.net
-www.samsungrm.net
+samsungotn.net
+samsungrm.net
 xpu.samsungelectronics.com
 mopub.com
 localytics.com
