@@ -265,3 +265,4 @@ lb1.www.ms.akadns.net
 pre.footprintpredict.com
 vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
+fnafgame.net
