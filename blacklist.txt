@@ -398,3 +398,9 @@ jp.tiarap.org
 dns.twnic.tw
 doh.xfinity.com
 doh.gslb2.xfinity.com
+goguardian.pusher.com
+laptoplookout.com
+kinesis.us-west-2.amazonaws.com
+hosted-extensions.s3.us-west-2.amazonaws.com
+x3-report-uploads.s3.us-west-2.amazonaws.com
+beacon-report-uploads-prod.s3.us-west-2.amazonaws.com
