@@ -356,5 +356,6 @@ x3-report-uploads.s3.us-west-2.amazonaws.com
 beacon-report-uploads-prod.s3.us-west-2.amazonaws.com
 remotedesktop-pa.googleapis.com
 remotedesktop.google.com
+podtrac.com
 
 
