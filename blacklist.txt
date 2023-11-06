@@ -107,12 +107,12 @@ Krunker.io
 mcafee.com
 doh.dns.apple.com
 dns.apple.com
-x3-policy-maker.goguardian.com
-x3-predictor.goguardian.com
-sockjs-goguardian.pusher.com
-ws-goguardian.pusher.com
+#x3-policy-maker.goguardian.com
+#x3-predictor.goguardian.com
+#sockjs-goguardian.pusher.com
+#ws-goguardian.pusher.com
 techpilotlabs.com
-goguardian.com
+#goguardian.com
 future.net.uk
 bark.us
 appcues.com
